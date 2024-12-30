@@ -39,7 +39,7 @@ test/            # Test files
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/c-programming-projects.git
+   git clone https://github.com/starsang45/c-programming-projects.git
 2. Navigate the directory:
 cd c-programming-projects
 3. Compile the code
