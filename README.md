@@ -1,5 +1,5 @@
 # c-programming-portfolio
-sorting-memory-management-c
+hanyang-c-projects: sorting-memory-management-c
 # Sorting and Memory Management Project
 
 This repository contains multiple C programming examples focusing on sorting algorithms, dynamic memory allocation, and structure-based data management. These examples demonstrate fundamental programming concepts in C.
